@@ -1,2 +1,2 @@
-# ThirdSprintRestProject
-Third project of Spring framework - REST service
+# ThirdSprintRestProject (Server)
+Third project of Spring framework - REST service (Server)
