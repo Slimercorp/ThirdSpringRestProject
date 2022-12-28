@@ -1,4 +1,4 @@
-package ru.slimercorp.springcourse.ThirdSprintRestProject;
+package ru.slimercorp.springcourse;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
